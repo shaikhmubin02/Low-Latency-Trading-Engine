@@ -1,0 +1,5 @@
+Daily Trading Report
+
+Timestamp,Event,OrderID,Symbol,Price,Quantity,Side
+2024-03-12 20:19:24,Order Placed,1,AAPL,150,100,B
+2024-03-12 20:19:24,Order Placed,2,GOOGL,160,75,S
