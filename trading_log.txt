@@ -1,2 +1,0 @@
-[2024-03-12 20:35:28] Order Placed: OrderID: 1, Symbol: AAPL, Price: 150, Quantity: 100, Side: B
-[2024-03-12 20:35:28] Order Placed: OrderID: 2, Symbol: GOOGL, Price: 160, Quantity: 75, Side: S
