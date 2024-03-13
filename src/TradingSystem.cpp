@@ -1,4 +1,4 @@
-#include "TradingSystem.h"
+#include "../includes/TradingSystem.h"
 
 TradingSystem::TradingSystem() {
     logFile.open("trading_log.txt", ios::out | ios::app);
