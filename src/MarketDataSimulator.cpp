@@ -7,7 +7,7 @@
 
 using namespace std;
 
-// Define a structure to represent a price update
+// structure to represent a price update
 struct PriceUpdate {
     string symbol;
     double price;
@@ -16,7 +16,7 @@ struct PriceUpdate {
     string tradeType; // "Buy" or "Sell"
 };
 
-// Define structures for bid and ask orders in the order book
+// structures for bid and ask orders in the order book
 struct Order {
     double price;
     int volume;
@@ -110,7 +110,7 @@ void simulateMarketDataFeed(const string& symbol, double initialPrice, int updat
 }
 
 int main() {
-    // Simulate market data feed for a stock with symbol "AAPL"
+    // Simulate market data feed for a stock 
     string symbol = "AAPL";
     double initialPrice = 150.0;
     int updatesCount = 10;

@@ -30,3 +30,5 @@
 [2024-03-13 16:20:56] Order Placed: OrderID: 1, Symbol: AAPL, Price: 150, Quantity: 100, Side: B
 [2024-03-13 16:20:56] Order Placed: OrderID: 2, Symbol: GOOGL, Price: 160, Quantity: 75, Side: S
 [2024-03-13 16:20:56] Trade Executed: OrderID: 1, Symbol: AAPL, Price: 150, Quantity: 100, Side: B
+[2024-03-13 16:40:04] Order Placed: OrderID: 1, Symbol: AAPL, Price: 150, Quantity: 100, Side: B
+[2024-03-13 16:40:04] Order Placed: OrderID: 2, Symbol: GOOGL, Price: 160, Quantity: 75, Side: S

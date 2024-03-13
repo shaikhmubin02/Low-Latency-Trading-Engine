@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     TradingSystem tradingSystem;
 
-    // Simulate order placement and trade execution (replace with actual trading logic)
+    // Simulate order placement and trade execution 
     Order order1(1, "AAPL", 150.0, 100, 'B');
     tradingSystem.placeOrder(order1);
 
